@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\AndroidStudioProject\\CropImage\\cropmodule\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\crop__divider.9.png",
+        "source": "D:\\AndroidStudioProject\\CropImage\\cropmodule\\src\\main\\res\\drawable-hdpi\\crop__divider.9.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\CropImage\\cropmodule\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\crop__ic_done.png",
+        "source": "D:\\AndroidStudioProject\\CropImage\\cropmodule\\src\\main\\res\\drawable-hdpi\\crop__ic_done.png"
+    },
+    {
+        "merged": "D:\\AndroidStudioProject\\CropImage\\cropmodule\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\crop__ic_cancel.png",
+        "source": "D:\\AndroidStudioProject\\CropImage\\cropmodule\\src\\main\\res\\drawable-hdpi\\crop__ic_cancel.png"
+    }
+]
